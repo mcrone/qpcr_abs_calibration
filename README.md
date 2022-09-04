@@ -30,9 +30,9 @@ Provide a suitable .csv file in the same format as the example ('InternationalSt
 
 ## Funding
 
-UKDRI
-Community Jameel
-UKRI-EPSRC (EP/R014000/1)
+UKDRI  
+Community Jameel  
+UKRI-EPSRC (EP/R014000/1)  
 
 
 
